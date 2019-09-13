@@ -24,7 +24,8 @@
             "x86_64"
           ],
           "url": "git://git.postgresql.org/git/postgresql.git",
-          "tag": "REL_11_4"
+          "tag": "REL_11_5",
+          "commit": "fdf16779f107dd22a2cb8430d2eee6c344b34187"
         },
         {         
           "type": "file",
