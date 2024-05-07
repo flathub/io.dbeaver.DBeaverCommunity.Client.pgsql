@@ -23,7 +23,7 @@
           "only-arches": [
             "x86_64"
           ],
-          "url": "git://git.postgresql.org/git/postgresql.git",
+          "url": "https://git.postgresql.org/git/postgresql.git",
           "tag": "REL_16_2",
           "commit": "b78fa8547d02fc72ace679fb4d5289dccdbfc781"
         },
