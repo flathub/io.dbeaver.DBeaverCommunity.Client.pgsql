@@ -2,7 +2,7 @@
   "app-id": "io.dbeaver.DBeaverCommunity.Client.pgsql",
   "runtime": "io.dbeaver.DBeaverCommunity",
   "runtime-version": "stable",
-  "sdk": "org.freedesktop.Sdk//19.08",
+  "sdk": "org.freedesktop.Sdk//23.08",
   "build-extension": true,
   "separate-locales": false,
   "appstream-compose": false,
@@ -23,9 +23,9 @@
           "only-arches": [
             "x86_64"
           ],
-          "url": "git://git.postgresql.org/git/postgresql.git",
-          "tag": "REL_12_2",
-          "commit": "45b88269a353ad93744772791feb6d01bc7e1e42"
+          "url": "https://git.postgresql.org/git/postgresql.git",
+          "tag": "REL_16_2",
+          "commit": "b78fa8547d02fc72ace679fb4d5289dccdbfc781"
         },
         {         
           "type": "file",
